@@ -9,3 +9,8 @@ By integrating the feature extraction capabilities of GNNs with the attention me
 
 ## Codes
 Our code is implemented by torch and torch-geometric.
+We referred to the following resources when implementing our code:
+
+- [Fourier Neural Operator GitHub Repository](https://github.com/khassibi/fourier-neural-operator/tree/main)
+- [PyTorch Geometric Examples](https://github.com/pyg-team/pytorch_geometric/tree/master/examples)
+- [Simulating Complex Physics with Graph Networks (Medium Article)](https://medium.com/stanford-cs224w/simulating-complex-physics-with-graph-networks-step-by-step-177354cb9b05)
